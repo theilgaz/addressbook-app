@@ -1,0 +1,17 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: Work
+    number: '05320000001'
+  addresses:
+  - !ruby/object:Address
+    kind: Home
+    street_1: Baker St.
+    street_2: No:221B
+    city: London
+    state: United Kingdom
+    postal_code: '42130'
+  first_name: Abdullah
+  middle_name: ''
+  last_name: Ilgaz
